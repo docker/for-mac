@@ -20,9 +20,9 @@ Problems with the Docker for Mac software can be filed as issues in this
 
 ### This Repository
 
-This repository contains an issue tracker for Docker for Mac -- the
-easiest way to use Docker on your Mac! If you find a problem with the
-software, first [browse the existing
+This repository contains an issue tracker for Docker for Mac -- an
+integrated Docker experience on OS X or macOS. If you find a problem
+with the software, first [browse the existing
 issues](https://github.com/docker/for-mac/issues) or search from the bar
 at the top (`s` to focus) and then, if you don't find your issue, [open
 a new issue](https://github.com/docker/for-mac/issues/new).
