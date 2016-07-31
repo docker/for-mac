@@ -42,6 +42,7 @@ the labels is roughly:
 | [area/network](https://github.com/docker/for-mac/labels/area/network)     | related to container networking |
 | [area/notary](https://github.com/docker/for-mac/labels/area/notary)      | related to [docker/notary](https://github.com/docker/notary) |
 | [area/osx](https://github.com/docker/for-mac/labels/area/osx)         | related to OS X or macOS integration |
+| [area/startup](https://github.com/docker/for-mac/labels/area/startup)     | related to application installation or initialization |
 | [area/storage](https://github.com/docker/for-mac/labels/area/storage)     | related to image and container storage ([storage drivers](https://docs.docker.com/engine/userguide/storagedriver/imagesandcontainers/)) |
 | [area/volumes](https://github.com/docker/for-mac/labels/area/volumes)     | related to Docker volumes ([volume drivers](https://docs.docker.com/engine/reference/commandline/volume_create/)) |
 | [kind/bug](https://github.com/docker/for-mac/labels/kind/bug)         | this issue describes a defect |
