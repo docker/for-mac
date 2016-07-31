@@ -29,8 +29,10 @@ a new issue](https://github.com/docker/for-mac/issues/new).
 
 ### Labels
 
-Issues are labeled in order to make tracking them easier. The meaning of
-the labels is roughly:
+Initially, issues are
+[unlabeled](https://github.com/docker/for-mac/issues?q=is%3Aopen+is%3Aissue+no%3Alabel). Issues
+are labeled in order to make tracking them easier. The meaning of the
+labels is roughly:
 
 | Label            | Meaning                                            |
 |------------------|----------------------------------------------------|
@@ -42,6 +44,7 @@ the labels is roughly:
 | [area/network](https://github.com/docker/for-mac/labels/area/network)     | related to container networking |
 | [area/notary](https://github.com/docker/for-mac/labels/area/notary)      | related to [docker/notary](https://github.com/docker/notary) |
 | [area/osx](https://github.com/docker/for-mac/labels/area/osx)         | related to OS X or macOS integration |
+| [area/startup](https://github.com/docker/for-mac/labels/area/startup)     | related to application installation or initialization |
 | [area/storage](https://github.com/docker/for-mac/labels/area/storage)     | related to image and container storage ([storage drivers](https://docs.docker.com/engine/userguide/storagedriver/imagesandcontainers/)) |
 | [area/volumes](https://github.com/docker/for-mac/labels/area/volumes)     | related to Docker volumes ([volume drivers](https://docs.docker.com/engine/reference/commandline/volume_create/)) |
 | [kind/bug](https://github.com/docker/for-mac/labels/kind/bug)         | this issue describes a defect |
@@ -60,7 +63,7 @@ Some notable components include:
 
  * [HyperKit](https://github.com/docker/hyperkit/), a toolkit for
    embedding hypervisor capabilities in your application
- * [DataKit](https://github.com/docker/hyperkit/), a tool to orchestrate
+ * [DataKit](https://github.com/docker/datakit/), a tool to orchestrate
    applications using a 9P dataflow
  * [VPNKit](https://github.com/docker/vpnkit), a set of tools and
    services for helping HyperKit VMs interoperate with host VPN
