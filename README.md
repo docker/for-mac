@@ -29,8 +29,10 @@ a new issue](https://github.com/docker/for-mac/issues/new).
 
 ### Labels
 
-Issues are labeled in order to make tracking them easier. The meaning of
-the labels is roughly:
+Initially, issues are
+[unlabeled](https://github.com/docker/for-mac/issues?q=is%3Aopen+is%3Aissue+no%3Alabel). Issues
+are labeled in order to make tracking them easier. The meaning of the
+labels is roughly:
 
 | Label            | Meaning                                            |
 |------------------|----------------------------------------------------|
