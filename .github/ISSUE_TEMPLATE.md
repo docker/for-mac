@@ -4,10 +4,9 @@
 
 ### Information
 
-  - Diagnostic ID from "Diagnose & Feedback" in the menu.
-  - a reproducible case if this is a bug, Dockerfiles FTW
-  - page URL if this is a docs issue or the name of a man page
-  - host distribution and version (OSX 10.10.x, OSX 10.11.x)
+  - Full output of the diagnostics from "Diagnose & Feedback" in the menu
+  - A reproducible case if this is a bug, Dockerfiles FTW
+  - Page URL if this is a docs issue or the name of a man page
 
 ### Steps to reproduce the behavior
 
