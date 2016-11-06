@@ -1,0 +1,6 @@
+{
+  "in_file": "docker-system.log",
+  "matches": ["Transport endpoint is not connected"],
+  "description": "This error suggests that a component of the volume sharing system failed.",
+  "link_to_issues": [ [ "docker/for-mac", 5 ] ]
+}

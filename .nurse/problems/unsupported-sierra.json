@@ -1,0 +1,6 @@
+{
+  "in_file": "docker-system.log",
+  "matches": ["Application version: 1.12.0","OSX Version: Version 10.12"],
+  "description": "OSX Sierra is supported from Docker for Mac version 1.12.1 on the stable channel, and from 1.12.1-beta26 on the beta channel. Please upgrade your version of Docker for Mac.",
+  "link_to_issues": [ [ "docker/for-mac", 561 ] ]
+}

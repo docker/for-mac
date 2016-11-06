@@ -1,0 +1,6 @@
+{
+  "in_file": "docker-system.log",
+  "matches": ["Communication with networking components failed"],
+  "description": "The UI failed to communicate with the networking helper process. Deleting `/Library/PrivilegedHelperTools/com.docker.vmnetd` and restarting the application should help you. Please re-open that issue if your problem persist.",
+  "link_to_issues": [ [ "docker/for-mac", 61 ] ]
+}

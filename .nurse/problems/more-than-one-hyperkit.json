@@ -1,0 +1,6 @@
+{
+  "in_file": "ps-ax.log",
+  "matches": ["hyperkit -A -m", "hyperkit -A -m"],
+  "description": "More than one hyperkit process has started and is accessing the qcow2 disk at the same time. This will lead to corruption and Docker must be reset to factory defaults.",
+  "link_to_issues": [ [ "docker/for-mac", 71 ] ]
+}

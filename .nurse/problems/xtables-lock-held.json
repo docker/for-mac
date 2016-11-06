@@ -1,0 +1,6 @@
+{
+  "in_file": "moby/var/log/docker.log",
+  "matches": ["Another app is currently holding the xtables lock"],
+  "description": "There is a global lock which protects the host firewall rules. Under heavy load, contention for this lock increases and eventually `iptables` commands time out. This failure is intermittent and a workaround is to repeat the failed command.",
+  "link_to_issues": [ [ "docker/for-mac", 285 ], [ "docker/docker", 26111 ] ]
+}

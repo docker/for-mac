@@ -1,0 +1,6 @@
+{
+  "in_file": "docker-system.log",
+  "matches": ["rcu_sched self-detected stall"],
+  "description": "The embedded Linux kernel inside the Docker for Mac virtual machine stalled, so Docker must be restarted.",
+  "link_to_issues": [ [ "docker/for-mac", 87 ] ]
+}

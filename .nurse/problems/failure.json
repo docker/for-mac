@@ -1,0 +1,5 @@
+{
+  "in_file": "docker-system.log",
+  "matches": ["Failure"],
+  "description": "[INVESTIGATE THE ISSUE]"
+}

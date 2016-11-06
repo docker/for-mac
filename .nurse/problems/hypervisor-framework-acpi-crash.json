@@ -1,0 +1,6 @@
+{
+  "in_file": "docker-system.log",
+   "matches": ["vm exit.2." ],
+  "description": "It looks like at least some cases can be explained by a bug in the workaround for a Hypervisor.framework ACPI crash bug. We are not sure whether the workaround is still needed -- the underlying crash may well have been fixed by Apple, especially in the most recent versions and updates of MacOSX 10.11.3 and higher.",
+  "link_to_issues": [ [ "docker/for-mac", 85 ] ]
+}

@@ -1,0 +1,6 @@
+{
+  "in_file": "docker-system.log",
+  "matches": ["Assertion failed"],
+  "description": "An Assertion failure relating to a Docker component was found in the system logs.",
+  "link_to_issues": [ ["docker/hyperkit", 50 ] ]
+}

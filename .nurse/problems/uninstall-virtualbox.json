@@ -1,0 +1,6 @@
+{
+  "in_file": "docker-system.log",
+  "matches": ["Please upgrade or uninstall Virtualbox"],
+  "description": "Some parts of Virtualbox may still be installed. Please follow https://www.virtualbox.org/manual/ch02.html#idm871 to completely uninstall Virtualbox. Please note that dragging the application to the trash is not enough:there are kernel modules installed as well.",
+  "link_to_issues": [ [ "docker/for-mac", 78 ] ]
+}

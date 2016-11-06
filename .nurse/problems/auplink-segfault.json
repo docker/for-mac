@@ -1,0 +1,6 @@
+{
+  "in_file": "docker-system.log",
+  "matches": ["auplink", "segfault", "error 6"],
+  "description": "You hit an issue with the AUFS storage driver that we shipped in previous versions of Docker for Mac. You should upgrade to the latest version of the product which fixes this defect. Thanks!",
+  "link_to_issues": [ ["docker/for-mac", 7 ] ]
+}

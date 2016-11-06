@@ -1,0 +1,6 @@
+{
+  "in_file": "moby/var/log/docker.log",
+  "matches": ["incorrect checksum for freed object - object was probably modified after being freed"],
+  "description": "The daemon cannot start because some files in /var/lib/docker are corrupt. This can happen if the filesystem is unmounted uncleanly. The workaround is to reset to factory defaults which will unfortunately delete /var/lib/docker: all containers and images will need to be rebuilt.",
+  "link_to_issues": [ [ "docker/for-mac", 35 ] ]
+}

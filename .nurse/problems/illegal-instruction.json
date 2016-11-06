@@ -1,0 +1,5 @@
+{
+  "in_file": "docker-system.log",
+  "matches": ["signal: illegal instruction"],
+  "description": "[INVESTIGATE THE ISSUE]"
+}

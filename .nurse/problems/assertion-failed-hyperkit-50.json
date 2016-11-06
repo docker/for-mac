@@ -1,0 +1,6 @@
+{
+  "in_file": "docker-system.log",
+  "matches": ["Assertion failed: \\(!REPLY_RING_EMPTY\\(sc\\)\\)"],
+  "description": "There were a number of updates to the hypervisor transport system in the recently released Beta 27. If you are comfortable running a beta (we still do QA on it), you could give that a try and see if it stops the frequent crashing.",
+  "link_to_issues": [ ["docker/hyperkit", 50 ] ]
+}

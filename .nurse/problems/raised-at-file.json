@@ -1,0 +1,6 @@
+{
+  "in_file": "docker-system.log",
+  "matches": ["Raised at file"],
+  "description": "[do not copy to the tracker] Not sure what happened, probably something bad. Please escalate the issue.",
+  "link_to_issues": [ [ "docker/for-mac", 20 ] ]
+}
