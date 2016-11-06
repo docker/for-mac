@@ -1,0 +1,5 @@
+{
+  "in_file": "docker-system.log",
+  "matches": ["INVARIANT VIOLATED"],
+  "description": "[INVESTIGATE ISSUE] (notify @dsheets)"
+}

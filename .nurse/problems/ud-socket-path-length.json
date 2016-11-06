@@ -1,0 +1,6 @@
+{
+    "in_file": "docker-system.log",
+    "matches": ["Failed to listen on .{105}.*: \"listen unix .*: bind: invalid argument\""],
+    "description": "The maximum Unix socket path length on macOS is 104 characters, which the detected path exceeds. As a workaround switching to using a shorter path for your home directory can avoid this issue.",
+    "link_to_issues": [ ["docker/for-mac", 747 ] ]
+}

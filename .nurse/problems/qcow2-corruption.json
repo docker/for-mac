@@ -1,0 +1,6 @@
+{
+  "in_file": "docker-system.log",
+  "matches": ["Invalid_argument\\(\"Cstruct.sub"],
+  "description": "This error suggests that the .qcow2 file is corrupt and will need to be recreated.",
+  "link_to_issues": [ [ "docker/for-mac", 11 ] ]
+}

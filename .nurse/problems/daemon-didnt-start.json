@@ -1,0 +1,5 @@
+{
+  "in_file": "moby/var/log/docker.log",
+  "matches": ["Error starting daemon:"],
+  "description": "The docker daemon inside the VM failed to start."
+}

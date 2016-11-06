@@ -1,0 +1,6 @@
+{
+  "in_file": "docker-system.log",
+  "matches": ["<Error>: Symlinks are not correctly installed."],
+  "description": "Thanks for your report! The docker symlinks have not been correctly installed by the installer, which is a known issue that we are currently working on. A possible workaround is to install the docker client manually by running:\n```\nln -s ~/Library/Group\\ Containers/group.com.docker/bin/docker /usr/local/bin/docker\n```",
+  "link_to_issues": [ [ "docker/for-mac", 785 ] ]
+}

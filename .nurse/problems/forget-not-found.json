@@ -1,0 +1,5 @@
+{
+  "in_file": "docker-system.log",
+  "matches": ["forget not found for node"],
+  "description": "[INVESTIGATE THE ISSUE] The osxfs node table has become corrupted."
+}

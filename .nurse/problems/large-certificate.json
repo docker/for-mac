@@ -1,0 +1,6 @@
+{
+  "in_file": "docker-system.log",
+  "matches": ["Failed to write certificates: write unix"],
+  "description": "Since Beta27, Docker for Mac uses the host certificates directly. However, there was an issue with large certificates that you unfortunately hit. This was fixed by Beta28. Please upgrade. Thanks for using our product!",
+  "link_to_issues": [ ["docker/for-mac", 721 ] ]
+}
