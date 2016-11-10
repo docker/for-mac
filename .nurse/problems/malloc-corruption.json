@@ -1,6 +1,6 @@
 {
     "in_file": "docker-system.log",
     "matches": ["incorrect checksum for freed object"],
-    "description": "Corruption has been detected in the malloc heap. This is a known issue which is under investigation.",
+    "description": "Corruption has been detected in the malloc heap. This is believed to have been fixed in stable as of v1.12.3 and in beta29.",
     "link_to_issues": [ [ "docker/for-mac", 819 ] ]
 }
