@@ -1,0 +1,5 @@
+{
+  "in_file": "sysctl-a",
+  "matches": ["^kern.hv_support: 0$"],
+  "description": "Your system does not satisfy the hardware requirements of Docker for Mac. See https://docs.docker.com/docker-for-mac/#/what-to-know-before-you-install for more information."
+}
