@@ -1,0 +1,6 @@
+{
+    "lifecycle": {
+        "files": ["docker-system.log", "docker-system-os.log"],
+        "matches" : ["Application version", "UpdateMigrator: migrator:", "Analytics: " ]
+    }
+}
