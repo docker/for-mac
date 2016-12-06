@@ -37,6 +37,7 @@ labels is roughly:
 | Label            | Meaning                                            |
 |------------------|----------------------------------------------------|
 | [area/compose](https://github.com/docker/for-mac/labels/area/compose)     | related to [docker/compose](https://github.com/docker/compose) |
+| [area/database](https://github.com/docker/for-mac/labels/area/database)     | related to the configuration database |
 | [area/docker](https://github.com/docker/for-mac/labels/area/docker)      | related to the Docker engine ([docker/docker](https://github.com/docker/docker)) |
 | [area/gui](https://github.com/docker/for-mac/labels/area/gui)         | related to the Graphical User Interface |
 | [area/linux](https://github.com/docker/for-mac/labels/area/linux)       | related to the Linux component |
