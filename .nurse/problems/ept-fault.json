@@ -1,0 +1,6 @@
+{
+  "in_file": "docker-system.log",
+  "matches": ["exit_reason\t48"],
+  "description": "[INVESTIGATE THE ISSUE]",
+  "link_to_issues": [ [ "docker/for-mac", 1110 ] ]
+}
