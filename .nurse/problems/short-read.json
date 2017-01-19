@@ -1,0 +1,5 @@
+{
+  "in_file": "docker-system.log",
+  "matches": ["short read length"],
+  "description": "Brittle transfused I/O caused crashes. This was fixed in Beta 34 by docker/moby#882."
+}
