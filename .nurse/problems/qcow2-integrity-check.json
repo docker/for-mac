@@ -1,0 +1,14 @@
+{
+  "in_file": "docker-system.log",
+  "matches": ["Mirage-block error: Unknown \\(Failure \"Found two references to cluster"],
+  "description": "
+Recent releases (beta 34.1 and 1.13 stable onwards) check the integrity of the `Docker.qcow2` file at startup and refuse to start if the file is corrupt.  The logs suggest that in this case the existing `Docker.qcow2` file has some damage, most likely caused by silent corruption in an earlier version due to inadequate locking when accessing the file.
+
+As a workaround we recommend either uninstalling and reinstalling the application or `rm ~/Library/Containers/com.docker.docker/Data/com.docker.driver.amd64-linux/Docker.qcow2`, then restarting.
+
+Unfortunately containers and images will need to be rebuilt.  I apologise for the inconvenience this has caused.
+
+The issue docker/for-mac#1159 has more information.
+",
+  "link_to_issues": [ [ "docker/for-mac", 1159 ] ]
+}
