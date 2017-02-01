@@ -8,6 +8,16 @@ Try the following steps:
 - delete the file `/Library/PrivilegedHelperTools/com.docker.vmnetd`
 - start Docker for Mac
 
-Hopefully this will (re-)install the networking helper process properly. Please re-open this issue if your problem persists.",
+Hopefully this will (re-)install the networking helper process properly.
+
+If this still doesn't work, please try the following steps:
+
+```
+sudo cp $(mdfind Docker.app)/Contents/Resources/com.docker.vmnetd.plist /Library/LaunchDaemons/com.docker.vmnetd.plist
+sudo chmod 600 /Library/LaunchDaemons/com.docker.vmnetd.plist
+sudo launchctl load -Fw /Library/LaunchDaemons/com.docker.vmnetd.plist
+```
+
+and start Docker for Mac.",
   "link_to_issues": [ [ "docker/for-mac", 61 ] ]
 }
