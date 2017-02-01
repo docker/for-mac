@@ -1,0 +1,5 @@
+{
+  "in_file": "moby/var/log/docker.log",
+  "matches": ["panic"],
+  "description": "[GO PANIC] probably an upstream bug which should be reported to docker/docker"
+}
