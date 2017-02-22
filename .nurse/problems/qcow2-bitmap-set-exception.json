@@ -1,0 +1,11 @@
+{
+  "in_file": "docker-system.log",
+    "matches": ["Invalid_argument .Qcow_bitmap.set"],
+  "description": "This error suggests that the .qcow2 file is corrupt and will need to be recreated.
+
+As a workaround we recommend either uninstalling and reinstalling the application or `rm ~/Library/Containers/com.docker.docker/Data/com.docker.driver.amd64-linux/Docker.qcow2`, then restarting.
+
+Unfortunately containers and images will need to be rebuilt.  I apologise for the inconvenience this has caused.",
+
+  "link_to_issues": [ [ "docker/for-mac", 1318 ] ]
+}
