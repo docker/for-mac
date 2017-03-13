@@ -1,0 +1,6 @@
+{
+  "in_file": "docker-system.log",
+  "matches": ["ftruncate. No space left on device in ftruncate" ],
+  "description": "[INVESTIGATE THE ISSUE]",
+  "link_to_issues": [ [ "docker/for-mac", 1365 ] ]
+}
