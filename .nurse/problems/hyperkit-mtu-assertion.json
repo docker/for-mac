@@ -1,0 +1,6 @@
+{
+  "in_file": "docker-system.log",
+  "matches": ["Assertion failed: .remaining == 0 .. i < n., function vmn_read" ],
+  "description": "This error suggests that a Hyperkit assertion was triggered by an ethernet frame that was too big for the buffer. Upgrading to the latest release should fix the issue.",
+  "link_to_issues": [ [ "docker/for-mac", 1228 ] ]
+}

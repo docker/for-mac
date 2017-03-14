@@ -1,0 +1,6 @@
+{
+  "in_file": "docker-system.log",
+  "matches": ["exceeded maximum number of forwarded connections" ],
+  "description": "This error suggests that the maximum number of simultaneous connections has been reached. Increasing the value in the database key `com.docker.driver.amd64-linux/slirp/max-connections` as described in https://github.com/docker/for-mac/issues/1009#issuecomment-264874864 may help.",
+  "link_to_issues": [ [ "docker/for-mac", 1009 ] ]
+}
