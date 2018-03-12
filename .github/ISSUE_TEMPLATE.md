@@ -1,5 +1,9 @@
 Issues without logs and details cannot be exploited, and will be closed.
 
+  - [ ] I have tried with the latest version of my channel (Stable or Edge)
+  - [ ] I have submitted Diagnostics
+  - [ ] I have included the Diagnostics ID in this Issue
+
 ### Expected behavior
 
 ### Actual behavior
@@ -18,3 +22,4 @@ Docker for Mac: version...
 
   1. ...
   2. ...
+  
