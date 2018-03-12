@@ -1,5 +1,4 @@
-Please check the [FAQ](FAQ.md).  Issues without logs and details
-cannot be exploited, and will be closed.
+Issues without logs and details cannot be exploited, and will be closed.
 
 ### Expected behavior
 
