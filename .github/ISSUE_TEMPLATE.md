@@ -1,5 +1,5 @@
 Please, check https://docs.docker.com/docker-for-mac/troubleshoot/.
-Issues without logs and details cannot be exploited, and will be closed.
+Issues without logs and details cannot be debugged, and will be closed.
 
   - [ ] I have tried with the latest version of my channel (Stable or Edge)
   - [ ] I have submitted Diagnostics
