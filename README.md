@@ -48,6 +48,7 @@ labels is roughly:
 | [area/startup](https://github.com/docker/for-mac/labels/area/startup)     | related to application installation or initialization |
 | [area/storage](https://github.com/docker/for-mac/labels/area/storage)     | related to image and container storage ([storage drivers](https://docs.docker.com/engine/userguide/storagedriver/imagesandcontainers/)) |
 | [area/volumes](https://github.com/docker/for-mac/labels/area/volumes)     | related to Docker volumes ([volume drivers](https://docs.docker.com/engine/reference/commandline/volume_create/)) |
+| [area/kube](https://github.com/docker/for-mac/labels/area/volumes) | related to Kubernetes integration
 | [kind/bug](https://github.com/docker/for-mac/labels/kind/bug)         | this issue describes a defect |
 | [kind/docs](https://github.com/docker/for-mac/labels/kind/docs)        | this issue describes a documentation change |
 | [kind/enhancement](https://github.com/docker/for-mac/labels/kind/enhancement) | this issue describes a change to existing functionality |
