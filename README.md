@@ -2,7 +2,7 @@
 
 ### Getting Docker CE for Mac
 
-"Docker CE for Mac" is free to [download](https://www.docker.com/products/docker#/mac).
+"Docker CE for Mac" is free to [download](https://www.docker.com/products/docker#/mac). Latest version can be download directly [here]( https://download.docker.com/mac/stable/Docker.dmg)
 
 ### Documentation
 
