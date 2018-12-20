@@ -1,26 +1,26 @@
-## Docker CE for Mac
+## Docker Desktop for Mac
 
-### Getting Docker CE for Mac
+### Getting Docker Desktop for Mac
 
-"Docker CE for Mac" is free to [download](https://store.docker.com/editions/community/docker-ce-desktop-mac). Latest stable version can be download directly [here]( https://download.docker.com/mac/stable/Docker.dmg)
+"Docker Desktop for Mac" is free to [download](https://store.docker.com/editions/community/docker-ce-desktop-mac). Latest stable version can be downloaded directly [here]( https://download.docker.com/mac/stable/Docker.dmg)
 
 ### Documentation
 
-If you don't understand something about Docker CE for Mac, the [extensive
+If you don't understand something about Docker Desktop for Mac, the [extensive
 documentation](https://docs.docker.com/docker-for-mac/) is a great place
 to look for answers.
 
 ### Support
 
-Users from the Docker CE community trade tips and tricks and discuss Docker CE
+Users from the Docker Desktop community trade tips and tricks and discuss Docker Desktop
 for Mac in [the user forum](https://forums.docker.com/c/docker-for-mac).
 
-Problems with the Docker CE for Mac software can be filed as issues in this
+Problems with the Docker Desktop for Mac software can be filed as issues in this
 ([docker/for-mac](https://github.com/docker/for-mac)) repository.
 
 ### This Repository
 
-This repository contains an issue tracker for Docker CE for Mac -- an
+This repository contains an issue tracker for Docker Desktop for Mac -- an
 integrated Docker experience on OS X or macOS. If you find a problem
 with the software, first [browse the existing
 issues](https://github.com/docker/for-mac/issues) or search from the bar
