@@ -66,7 +66,7 @@ labels is roughly:
 ### Component Projects
 
 Docker Desktop for Mac uses many open source components. A full list of
-components and licenses is available inside of Docker Desktop from `About Docker
+components and licenses is available inside of Docker Desktop from `About Docker Desktop
 -> Acknowledgements` in the :whale: menu.
 
 Some notable components include:
