@@ -13,7 +13,7 @@ to look for answers.
 ### Support
 
 Users from the Docker Desktop community trade tips and tricks and discuss Docker Desktop
-for Mac in [the user forum](https://forums.docker.com/c/docker-for-mac).
+for Mac in [the user forum](https://forums.docker.com/c/docker-desktop-for-mac).
 
 Problems with the Docker Desktop for Mac software can be filed as issues in this
 ([docker/for-mac](https://github.com/docker/for-mac)) repository.
