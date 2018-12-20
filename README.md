@@ -2,7 +2,7 @@
 
 ### Getting Docker Desktop for Mac
 
-"Docker Desktop for Mac" is free to [download](https://store.docker.com/editions/community/docker-ce-desktop-mac).
+Docker Desktop for Mac is free to [download](https://store.docker.com/editions/community/docker-ce-desktop-mac).
 
 ### Documentation
 
