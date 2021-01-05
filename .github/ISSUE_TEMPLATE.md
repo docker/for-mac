@@ -1,8 +1,9 @@
 <!--
 Please, check https://docs.docker.com/docker-for-mac/troubleshoot/.
-Issues without logs and details cannot be debugged, and will be closed.
+Issues without a clear description, logs and details cannot be debugged, and will be closed.
+Please give your issue a clear title, not just a one-word statement or a diagnostics ID.
 
-Issues unrelated to Docker for Mac will be closed.  In particular, see
+Issues unrelated to Docker Desktop will be closed.  In particular, see
   - https://github.com/docker/compose/issues for docker-compose
   - https://github.com/docker/machine/issues for docker-machine
   - https://github.com/moby/moby/issues for Docker daemon
@@ -10,11 +11,9 @@ Issues unrelated to Docker for Mac will be closed.  In particular, see
 -->
 
 
-<!--
-Replace `- [ ]` with `- [x]`, or click after having submitted the issue.
--->
-
-  - [ ] I have tried with the latest version of my channel (Stable or Edge)
+<!-- Click these checkboxes after submitting, or place an "x" in them. -->
+  - [ ] I have tried with the latest version of Docker Desktop
+  - [ ] I have tried disabling enabled experimental features
   - [ ] I have uploaded Diagnostics
   - Diagnostics ID:
 
