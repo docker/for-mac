@@ -31,13 +31,6 @@ Please, help us understand the problem.  For instance:
 -->
   - macOS Version:
 
-### Diagnostic logs
-<!-- Full output of the diagnostics from "Diagnose & Feedback" in the menu ... -->
-```
-Docker for Mac: version...
-
-```
-
 ### Steps to reproduce the behavior
 <!--
 A reproducible case, Dockerfiles FTW.
