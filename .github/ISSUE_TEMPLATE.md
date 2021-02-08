@@ -1,13 +1,20 @@
 <!--
-Please, check https://docs.docker.com/docker-for-mac/troubleshoot/.
-Issues without a clear description, logs and details cannot be debugged, and will be closed.
-Please give your issue a clear title, not just a one-word statement or a diagnostics ID.
 
-Issues unrelated to Docker Desktop will be closed.  In particular, see
-  - https://github.com/docker/compose/issues for docker-compose
-  - https://github.com/docker/machine/issues for docker-machine
-  - https://github.com/moby/moby/issues for Docker daemon
-  - https://github.com/docker/docker.github.io/issues for the documentation
+************************************************************************************
+*READ ME FIRST*
+
+This repository is for reporting bugs with the Docker Desktop for Mac software,
+which we respond to on a best-effort basis.
+
+Support requests in this repository (i.e., trouble installing or using the
+software) will be ignored, but personalized support is available to Docker Pro and
+Team customers at https://hub.docker.com/support/desktop/, and community support is
+available from the Docker community Slack (https://www.docker.com/docker-community).
+
+Issues without a clear title, description, and diagnostics ID cannot be debugged,
+and will be closed.
+************************************************************************************
+
 -->
 
 
@@ -30,6 +37,7 @@ Please, help us understand the problem.  For instance:
   - A reproducible case if this is a bug, Dockerfiles FTW.
 -->
   - macOS Version:
+  - Docker Desktop Version:
 
 ### Steps to reproduce the behavior
 <!--
