@@ -12,7 +12,9 @@ Team customers at https://hub.docker.com/support/desktop/, and community support
 available from the Docker community Slack (https://www.docker.com/docker-community).
 
 Issues without a clear title, description, and diagnostics ID cannot be debugged,
-and will be closed.
+and will be closed. See https://docs.docker.com/docker-for-mac/troubleshoot/#diagnose-and-feedback
+for how to generate a diagnostics ID either from inside the app or from the command
+line.
 ************************************************************************************
 
 -->
