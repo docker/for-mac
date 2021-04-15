@@ -39,6 +39,7 @@ Please, help us understand the problem.  For instance:
   - A reproducible case if this is a bug, Dockerfiles FTW.
 -->
   - macOS Version:
+  - Intel chip or Apple chip:
   - Docker Desktop Version:
 
 ### Steps to reproduce the behavior
