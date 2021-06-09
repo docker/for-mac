@@ -11,10 +11,10 @@ software) will be ignored, but personalized support is available to Docker Pro a
 Team customers at https://hub.docker.com/support/desktop/, and community support is
 available from the Docker community Slack (https://www.docker.com/docker-community).
 
-Issues without a clear title, description, and diagnostics ID cannot be debugged,
-and will be closed. See https://docs.docker.com/docker-for-mac/troubleshoot/#diagnose-and-feedback
-for how to generate a diagnostics ID either from inside the app or from the command
-line.
+Issues without sufficient detail to debug them will be closed. They generally need
+a clear title and description, steps to reproduce, and a diagnostics ID. See
+https://docs.docker.com/docker-for-windows/troubleshoot/#diagnose-and-feedback for
+how to generate a diagnostics ID either from inside the app or from the command line.
 ************************************************************************************
 
 -->
