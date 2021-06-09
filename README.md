@@ -1,16 +1,16 @@
-## Docker Desktop for Mac
+# Docker Desktop for Mac
 
-### Getting Docker Desktop for Mac
+## Getting Docker Desktop for Mac
 
 Docker Desktop for Mac is free to [download](https://store.docker.com/editions/community/docker-ce-desktop-mac).
 
-### Documentation
+## Documentation
 
 If you don't understand something about Docker Desktop for Mac, the [extensive
 documentation](https://docs.docker.com/docker-for-mac/) is a great place
 to look for answers.
 
-### Support
+## Support
 
 Support for Docker Desktop is available to Docker customers on a Pro or Team plan
 by completing the [Desktop support form](https://hub.docker.com/support/desktop/).
@@ -21,7 +21,7 @@ on a best-effort basis. Support requests in this repository (i.e., trouble insta
 or using the software) will be ignored, but community support is available from the
 [Docker community Slack](https://www.docker.com/docker-community).
 
-### This Repository
+## This Repository
 
 This repository contains an issue tracker for Docker Desktop for Mac -- an
 integrated Docker experience on OS X or macOS. If you find a problem
@@ -30,7 +30,7 @@ issues](https://github.com/docker/for-mac/issues) or search from the bar
 at the top (`s` to focus) and then, if you don't find your issue, [open
 a new issue](https://github.com/docker/for-mac/issues/new).
 
-### Component Projects
+## Component Projects
 
 Docker Desktop for Mac uses many open source components. A full list of
 components and licenses is available inside of Docker Desktop from `About Docker Desktop
@@ -38,10 +38,10 @@ components and licenses is available inside of Docker Desktop from `About Docker
 
 Some notable components include:
 
- * [HyperKit](https://github.com/docker/hyperkit/), a toolkit for
+* [HyperKit](https://github.com/docker/hyperkit/), a toolkit for
    embedding hypervisor capabilities in your application
- * [DataKit](https://github.com/docker/datakit/), a tool to orchestrate
+* [DataKit](https://github.com/docker/datakit/), a tool to orchestrate
    applications using a 9P dataflow
- * [VPNKit](https://github.com/docker/vpnkit), a set of tools and
+* [VPNKit](https://github.com/docker/vpnkit), a set of tools and
    services for helping HyperKit VMs interoperate with host VPN
    configurations
