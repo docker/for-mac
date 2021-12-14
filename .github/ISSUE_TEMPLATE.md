@@ -42,6 +42,8 @@ Please, help us understand the problem.  For instance:
   - Intel chip or Apple chip:
   - Docker Desktop Version:
 
+### Output of `/Applications/Docker.app/Contents/MacOS/com.docker.diagnose check`
+
 ### Steps to reproduce the behavior
 <!--
 A reproducible case, Dockerfiles FTW.
