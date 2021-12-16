@@ -6,6 +6,9 @@
 This repository is for reporting bugs with the Docker Desktop for Mac software,
 which we respond to on a best-effort basis.
 
+Do *not* paste logfiles into github issues: upload diagnostics instead, which are
+only visible to Docker engineers.
+
 Support requests in this repository (i.e., trouble installing or using the
 software) will be ignored, but personalized support is available to Docker Pro and
 Team customers at https://hub.docker.com/support/desktop/, and community support is
