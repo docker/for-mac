@@ -1,5 +1,12 @@
 # Docker Desktop for Mac
 
+This repository contains an issue tracker for Docker Desktop for Mac -- an
+integrated Docker experience on OS X or macOS. If you find a problem
+with the software, first [browse the existing
+issues](https://github.com/docker/for-mac/issues) or search from the bar
+at the top (`s` to focus) and then, if you don't find your issue, [open
+a new issue](https://github.com/docker/for-mac/issues/new).
+
 ## Getting Docker Desktop for Mac
 
 Docker Desktop for Mac is free to [download](https://store.docker.com/editions/community/docker-ce-desktop-mac).
@@ -20,15 +27,6 @@ Bugs with the Docker Desktop for Mac software can be filed as issues in this
 on a best-effort basis. Support requests in this repository (i.e., trouble installing
 or using the software) will be ignored, but community support is available from the
 [Docker community Slack](https://www.docker.com/docker-community).
-
-## This Repository
-
-This repository contains an issue tracker for Docker Desktop for Mac -- an
-integrated Docker experience on OS X or macOS. If you find a problem
-with the software, first [browse the existing
-issues](https://github.com/docker/for-mac/issues) or search from the bar
-at the top (`s` to focus) and then, if you don't find your issue, [open
-a new issue](https://github.com/docker/for-mac/issues/new).
 
 ## Component Projects
 
