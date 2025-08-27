@@ -1,5 +1,9 @@
 # Docker Desktop for Mac
 
+> [!NOTE]
+> This repository is being sunset in favor of [desktop-feedback](http://dockr.ly/desktop-feedback).  
+> Existing issues will remain here but will be moved to the new repository as they are updated.
+
 ## Getting Docker Desktop for Mac
 
 Docker Desktop for Mac is free to [download](https://store.docker.com/editions/community/docker-ce-desktop-mac).

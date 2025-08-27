@@ -1,8 +1,11 @@
 blank_issues_enabled: false
 contact_links:
-  - name: "Feature request"
-    about: "Check our Public Roadmap to request new features on Docker Desktop."
-    url: "https://github.com/docker/roadmap/issues"
+  - name: "Bug report"
+    about: "Report a bug or issue with Docker Desktop."
+    url: "https://github.com/docker/desktop-feedback/issues/new?template=bug.yml"
+  - name: "Enhancement request"
+    about: "Suggest an improvement or enhancement to Docker Desktop."
+    url: "https://github.com/docker/desktop-feedback/issues/new?template=enhancement.yml"
   - name: "Docker support"
     about: "Get the help you need to build, share, and run your Docker applications."
     url: "https://www.docker.com/support/"
