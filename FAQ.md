@@ -52,3 +52,31 @@ E0131 10:04:36.405721    1193 reflector.go:205] k8s.io/kubernetes/pkg/kubelet/ku
 
 This is not a problem: this is `kubelet` trying to connect to API server when
 the latter is not reading ready yet.
+
+
+Error - Docker not found when freshly installed on Mac #6793
+
+Solution - 
+
+Step 1: Add Docker to System PATH
+
+Manually add Docker to your path by running on terminal:
+
+export PATH="/Applications/Docker.app/Contents/Resources/bin:$PATH"
+
+Then verify by running:
+
+docker —version
+
+If this works, make the change permanent by adding it to your zsh profile:
+
+echo 'export PATH="/Applications/Docker.app/Contents/Resources/bin:$PATH"' >> ~/.zshrc
+source ~/.zshrc
+
+Step 2: Restart Docker Desktop
+  
+  a. Quit Docker Desktop (Cmd + Q)
+  b. Reopen Docker Desktop from Applications
+  c. Wait until it fully starts, then checkdocker ps
+
+If this shows running containers, Docker is working.
